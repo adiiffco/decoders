@@ -1,2 +1,2 @@
-# decoders
-Decoders Android App.
+# Decoders Android Application
+## By Decoders App Team
